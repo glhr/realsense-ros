@@ -104,7 +104,7 @@ Processing enabled by this node:
   <arg name="respawn"                         default="$(arg bond)" />
 
   <!-- Processing Modules -->
-  <arg name="rgb_processing"                  default="false"/>
+  <arg name="rgb_processing"                  default="true"/>
   <arg name="debayer_processing"              default="false" />
   <arg name="ir_processing"                   default="false"/>
   <arg name="depth_processing"                default="false"/>
